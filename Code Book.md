@@ -1,7 +1,7 @@
 ##  Code Book
-#   Contains the description of fields in tidydata.txt
+##   Contains the description of fields in tidydata.txt
 
-#  Subject: ID number of the subject
+##  Subject: ID number of the subject
 
 ##  Measurements:
 
@@ -85,13 +85,11 @@ fBodyBodyGyroJerkMagMean
 fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
+## Activity Labels - During the test
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
 
-
-##  Activity Labels
-
-#WALKING : subject was walking during the test
-#WALKING_UPSTAIRS : subject was walking up a staircase during the test
-#WALKING_DOWNSTAIRS : subject was walking down a staircase during the test
-#SITTING : subject was sitting during the test
-#STANDING : subject was standing during the test
-#LAYING (: subject was laying down during the test
